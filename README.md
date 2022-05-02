@@ -1,2 +1,2 @@
-# Exerc-cios
+# Atividade 1 - Operadores Relacionais
 Atividades
