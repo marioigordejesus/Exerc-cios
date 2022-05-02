@@ -1,12 +1,12 @@
 var num1,num2,res;
-num1 = "Mário Igor de Jesus";
-num2 = "2222106386";
 num1=prompt("Digite um número");
 num1=parseInt(num1);
 num2=prompt("Digite outro número");
 num2=parseInt(num2);
 res=(num1==num2);
-document.write("Mário Igor de Jesus; 2222106386: 2222106386<br>");
+num1=12;
+num=5;
+document.write("Mário Igor de Jesus, 2222106386: meu RA 2222106386 <br>");
 document.write("Números digitados:<br>num1: "+num1+"<br> num2: "+num2+"<hr>");
 document.write("Igualdade: "+res+"<br>");
 res=(num1===num2);
